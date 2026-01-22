@@ -1,26 +1,19 @@
-# Mini-Projeto 10 - Data App Para Dashboard Interativo de Sales Analytics em Python com Streamlit
+# Projeto- Data App Para Dashboard Interativo de Sales Analytics em Python com Streamlit
 
-# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+# 🔗Link do Projeto no: 
+(https://cicone-dev-an-lise-de-dados-projeto-st-analise-dados-app-upo7zf.streamlit.app)
 
-conda create --name dsamp10 python=3.13
 
-# Ative o ambiente:
+<img width="auto" height="904" alt="image" src="https://github.com/user-attachments/assets/a21d3211-4569-43a0-9b41-8a72103d47bb" />
 
-conda activate dsamp10 (ou: source activate dsamp10)
+### Como instalar:
+- conda install pip
+- pip install -r requirements.txt 
 
-# Instale o pip e as dependências:
+### Execute a app:
 
-conda install pip
-pip install -r requirements.txt 
+-streamlit run analise_dados_app.py 
 
-# Execute a app:
-
-streamlit run dsa_app.py 
-
-# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
-
-conda deactivate
-conda remove --name dsamp10 --all
 
 
 
